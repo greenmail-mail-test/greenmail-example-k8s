@@ -1,6 +1,6 @@
 # GreenMail on Kubernetes via Terraform
 
-Example for running GreenMail containerized on k8s via
+Example for running [GreenMail](https://greenmail-mail-test.github.io/greenmail/) containerized on k8s via
 [Terraform Kubernetes provider](https://registry.terraform.io/providers/hashicorp/kubernetes/latest/docs).
 
 ## Quickstart
